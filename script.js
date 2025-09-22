@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("btn").addEventListener("click", function () {
-        alert("ボタンを押してはいけません！！");
+        alert("2!ボタンを押してはいけません！！");
     });
 });
